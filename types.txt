@@ -1,0 +1,22 @@
+booleans
+number
+string
+array
+
+
+tuple - [string, number, number] allows multiple types in an array 
+            let arr:[number,string,number] = [1,'one',5]
+
+enum = Outcome {Win, Lose, Draw}
+            friendly name to al ist of values 
+                    1 win
+                    2 lose 
+
+any - dynamic type (like normal)
+
+
+void - a function that doesn't return
+        
+
+never  - function that never returns 
+https://www.typescriptlang.org/docs/handbook/basic-types.html
